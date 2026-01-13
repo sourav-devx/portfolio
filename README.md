@@ -1,4 +1,4 @@
-# 🚀 Developer Portfolio
+# 🚀 Developer Portfolio (Dev in progress)
 
 Welcome to my personal portfolio repository!  
 This space showcases my hands-on work in **Android application development** using **Java & Kotlin**, along with projects and experiments from my ongoing journey into **full‑stack web development** 🚀.
